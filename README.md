@@ -60,6 +60,14 @@ Evleri İncele: Fiyat, konum ve diğer kriterlere göre filtreleyin.
 
 Katkıda bulunmak isterseniz, lütfen bir fork oluşturun, değişikliklerinizi yapın ve bir pull request gönderin.
 
+## Ekran Görüntüleri
+
+![Ana Sayfa](Screenshots/ana_sayfa.png)
+![Ürün Detayı](Screenshots/daire.png)
+
+> Projeye ait tüm ekran görüntüleri `screenshots` klasöründe bulunmaktadır.
+
+
 📜 Lisans
 
 Bu proje MIT Lisansı ile lisanslanmıştır.
