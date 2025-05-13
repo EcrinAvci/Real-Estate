@@ -66,6 +66,5 @@ Bu proje MIT Lisansı ile lisanslanmıştır.
 
 Herhangi bir sorunuz varsa bana ulaşabilirsiniz! 🚀
 
-adamsın
 
 
